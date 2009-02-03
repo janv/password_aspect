@@ -9,4 +9,4 @@ and 'salt' in your models table and include PasswordAspect in the model.
 
 For more information take a look into the Rdoc
 
-Copyright (c) 2008 [Jan Varwig], released under the MIT license
+Copyright (c) 2009 [Jan Varwig], released under the MIT license
